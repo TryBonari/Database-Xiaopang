@@ -29,7 +29,7 @@
     },
     {
         "nama": "Dana",
-        "Nomor": 6285546878871,
+        "nomor": 6285546878871,
         "pemilik": "Xiaopang",
         "kategori": "Ewallet",
         "url_gambar": "https://id-test-11.slatic.net/p/89841d7390d1e2b08c3c40ae38bbbb47.jpg"
@@ -50,7 +50,7 @@
     },
     {
         "nama": "Shopee Pay",
-        "harga":  6285546878874,
+        "nomor":  6285546878874,
         "pemilik": "Xiaopang",
         "kategori": "Ewallet",
         "url_gambar": "https://img.ws.mms.shopee.co.id/f7ec8f377e708ea078317220180ac425"
