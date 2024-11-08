@@ -3,48 +3,56 @@
         "nama": "Bank BRI",
         "nomor": 6299122333224,
         "pemilik": "Xiaopang",
+        "kategotri" : "Bank",
         "url_gambar": "https://cibojong-padarincang.desa.id/wp-content/uploads/2023/08/bumbu_rempah_bawang_merah_besar_1kg_full00.webp"
     },
     {
         "nama": "Bank BNI",
         "nomor": 15000462344376478,
         "pemilik": "Xiaopang",
+        "kategori": "Bank",
         "url_gambar": "https://siopen.balangankab.go.id/storage/merchant/products/2024/08/17/ad85b8a746abaeb234b41c533df6a1da.jpg"
     },
     {
         "nama": "Bank BCA",
         "nomor": 1500222124367743 ,
         "pemilik": "Xiaopang",
+        "kategori": "Bank",
         "url_gambar": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR454sNX3p97yi6FDd43FSCCaoaNZLom1t5qXw1ig-6rBTIdUfQuwMwXZJdJpWHja_VU3DqwAquUq5mG_EzCTFf6X80btgfsKx4wiIbt5zk&usqp=CAE"
     },
     {
         "nama": "Bank Mandiri",
         "nomor": 1534843544534345,
         "pemilik": "Xiaopang",
+        "kategori": "Bank",
         "url_gambar": "https://awsimages.detik.net.id/community/media/visual/2020/01/06/b3debcdb-6d40-4710-bfd8-700a962a4ecf.jpeg?w=600&q=90"
     },
     {
         "nama": "Dana",
         "Nomor": 6285546878871,
         "pemilik": "Xiaopang",
+        "kategori": "Ewallet",
         "url_gambar": "https://id-test-11.slatic.net/p/89841d7390d1e2b08c3c40ae38bbbb47.jpg"
     },
     {
         "nama": "Ovo",
         "nomor": 6285546878879,
         "pemilik": "Xiaopang",
+        "kategori": "Ewallet",
         "url_gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBbyy-dVYYxrv766e3HTk_M5qjIwI0E-zFVw&s"
     },
     {
         "nama": "Gopay",
         "nomor": 6285546878873,
         "pemilik": "Xiaopang",
+        "kategori": "Ewallet",
         "url_gambar": "https://down-id.img.susercontent.com/file/id-11134207-7r98u-ll821i5esypodd"
     },
     {
         "nama": "Shopee Pay",
         "harga":  6285546878874,
         "pemilik": "Xiaopang",
+        "kategori": "Ewallet",
         "url_gambar": "https://img.ws.mms.shopee.co.id/f7ec8f377e708ea078317220180ac425"
     }
 ]
