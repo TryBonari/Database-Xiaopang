@@ -1,72 +1,51 @@
 [
     {
-        "nama": "Bawang Merah",
-        "harga": 30.000,
-        "rating": 4.9,
-        "deskripsi": "Bawang merah segar dan berkualitas tinggi yang diambil langsung dari petani.Kami menyediakan bawang merah pilihan dengan aroma yang khas sehingga sangat cocok untuk segala jenis masakan. Dengan harga yang sangat terjangkau anda sudah mendapatkan bawang merah pilihan yang dapat membuat seluruh masakan anda terasa lebih nikmat.",
+        "nama": "Bank BRI",
+        "nomor": 099122333224,
+        "pemilik": Xiaopang,
         "url_gambar": "https://cibojong-padarincang.desa.id/wp-content/uploads/2023/08/bumbu_rempah_bawang_merah_besar_1kg_full00.webp"
     },
     {
-        "nama": "Bawang Putih",
-        "harga": 25.000,
-        "rating": 4.9,
-        "deskripsi": "Bawang putih berkualitas tingg, segar dan kaya rasa! Bawang putih terpilih yang diambil dari petani pilihan sehingga memastikan aroma yang kuat dan juga kesehtan yang optimal, sangat cocok untuk melengkapi kebutuhan dapur anda dan masakan anda untuk hari-hair spesial.",
+        "nama": "Bank BNI",
+        "nomor": 15000462344376478,
+        "pemilik": Xiaopang,
         "url_gambar": "https://siopen.balangankab.go.id/storage/merchant/products/2024/08/17/ad85b8a746abaeb234b41c533df6a1da.jpg"
     },
     {
-        "nama": "Bawang Bombai",
-        "harga": 20.000,
-        "rating": 4.9,
-        "deskripsi": "Bawang bombai pilihan yang segar, renyah, dan kaya rasa! Bawang bombai kami dipilih langsung dari petani terbaik untuk menjamin kualitas setiap lapisan. Dikenal dengan rasa yang lembut dan sedikit manis, bawang bombai ini sempurna untuk memperkaya cita rasa berbagai masakan, dari tumisan hingga hidangan internasional. Kami menyediakan bawang bombai dalam berbagai ukuran kemasan yang sesuai dengan kebutuhan dapur Anda.",
+        "nama": "Bank BCA",
+        "nomor": 1500222124367743 ,
+        "pemilik": Xiaopang,
         "url_gambar": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR454sNX3p97yi6FDd43FSCCaoaNZLom1t5qXw1ig-6rBTIdUfQuwMwXZJdJpWHja_VU3DqwAquUq5mG_EzCTFf6X80btgfsKx4wiIbt5zk&usqp=CAE"
     },
     {
-        "nama": "Bawang Goreng",
-        "harga": 35.000,
-        "rating": 4.9,
-        "deskripsi": "Bawang goreng renyah yang gurih dan siap memperkaya cita rasa hidangan Anda! Bawang goreng kami dibuat dari bawang berkualitas tinggi yang diolah dengan teknik khusus untuk mempertahankan kerenyahan dan aroma yang khas. Cocok untuk taburan di atas nasi goreng, soto, bubur, dan berbagai hidangan lainnya, bawang goreng ini juga dikemas dalam wadah higienis yang menjaga kesegarannya",
+        "nama": "Bank Mandiri",
+        "nomor": 1534843544534345,
+        "pemilik": Xiaopang,
         "url_gambar": "https://awsimages.detik.net.id/community/media/visual/2020/01/06/b3debcdb-6d40-4710-bfd8-700a962a4ecf.jpeg?w=600&q=90"
     },
     {
-        "nama": "Bibit Bawang",
-        "harga": 5.000,
-        "rating": 4.9,
-        "deskripsi": "bibit bawang berkualitas unggul bagi Anda yang ingin memulai atau memperluas budidaya sendiri! Bibit kami dipilih dari varietas terbaik yang tahan terhadap hama dan memiliki tingkat pertumbuhan yang optimal, cocok untuk ditanam di berbagai jenis lahan. Dengan panduan perawatan yang lengkap, bibit bawang dari Abwang Merah siap membantu Anda menghasilkan bawang berkualitas dengan hasil panen melimpah. Nikmati kemudahan dalam memilih dan memesan bibit langsung dari petani terpercaya dengan harga bersaing ",
+        "nama": "Dana",
+        "Nomor": 085546878876,
+        "pemilik": Xiaopang,
         "url_gambar": "https://id-test-11.slatic.net/p/89841d7390d1e2b08c3c40ae38bbbb47.jpg"
     },
     {
-        "nama": "Cabe Merah",
-        "harga": 40.000,
-        "rating": 4.9,
-        "deskripsi": "Cabai merah segar yang pedas dan penuh rasa! Dipetik langsung dari petani lokal terpercaya, cabai merah kami memiliki kualitas terbaik dengan tingkat kepedasan yang pas, cocok untuk memperkaya berbagai masakan Anda. Dengan warna merah cerah dan tekstur segar, cabai merah ini akan memberikan aroma dan rasa yang istimewa pada setiap hidangan, dari sambal hingga tumisan.",
+        "nama": "Ovo",
+        "nomor": 085546878876,
+        "pemilik": Xiaopang,
         "url_gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBbyy-dVYYxrv766e3HTk_M5qjIwI0E-zFVw&s"
     },
     {
-        "nama": "Cabe Hijau",
-        "harga": 35.000,
-        "rating": 4.9,
-        "deskripsi": "Cabai hijau segar yang siap menambah cita rasa unik pada hidangan Anda! Cabai hijau kami dipetik langsung dari ladang berkualitas dan dikenal dengan rasa pedas yang lebih ringan namun tetap menggugah selera. Cocok untuk berbagai masakan, mulai dari tumisan, sambal hijau, hingga hidangan khas lainnya, cabai hijau ini hadir dengan warna yang cerah dan tekstur yang segar.",
+        "nama": "Gopay",
+        "nomor": 085546878876,
+        "pemilik": Xiaopang,
         "url_gambar": "https://down-id.img.susercontent.com/file/id-11134207-7r98u-ll821i5esypodd"
     },
     {
-        "nama": "Cabe Kering",
+        "nama": "Shopee Pay",
         "harga": 45.000,
         "rating": 4.9,
         "deskripsi": "Cabai kering berkualitas tinggi dengan aroma dan rasa pedas yang khas, siap menambah kelezatan pada masakan Anda! Cabai kering kami diolah dari cabai segar yang dipilih dengan cermat dan dikeringkan secara alami untuk mempertahankan warna, aroma, dan tingkat kepedasannya. Cocok untuk bumbu masakan, sambal, atau rempah tambahan dalam hidangan khas daerah.",
         "url_gambar": "https://img.ws.mms.shopee.co.id/f7ec8f377e708ea078317220180ac425"
-    },
-    {
-        "nama": "Cabe Rawit",
-        "harga": 55.000,
-        "rating": 4.9,
-        "deskripsi": "abai rawit segar dengan tingkat kepedasan tinggi yang siap memberikan sensasi pedas yang menggugah selera pada setiap masakan Anda! Dipetik langsung dari petani terbaik, cabai rawit kami dipilih secara teliti untuk memastikan kualitas dan kesegaran yang optimal. Cabai ini sangat cocok digunakan dalam sambal, bumbu masakan, atau sebagai pelengkap hidangan khas Indonesia.",
-        "url_gambar": "https://awsimages.detik.net.id/community/media/visual/2022/06/08/ilustrasi-cabai-rawit_169.jpeg?w=1200"
-    },
-    {
-        "nama": "Kemiri",
-        "harga": 30.000,
-        "rating": 4.9,
-        "deskripsi": "kemiri berkualitas tinggi yang siap memperkaya cita rasa masakan Anda! Kemiri kami dipilih dari biji kemiri segar yang diolah dengan hati-hati untuk menjaga rasa dan aroma khasnya. Dikenal sebagai bumbu penting dalam masakan tradisional Indonesia, kemiri memiliki kandungan minyak yang kaya dan memberikan tekstur lembut serta rasa gurih yang istimewa pada berbagai hidangan, seperti sambal, sup, atau olahan daging.",
-        "url_gambar": "https://asset.kompas.com/crops/VXZNnisAcffieNXxd0oJ--zw0oM=/18x36:1279x877/750x500/data/photo/2021/01/10/5ffac58b5240f.jpg"
     }
 ]
